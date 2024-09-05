@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: rgb(94, 50, 255);
+    border-bottom: 5px solid rgb(51, 3, 139);
+}
+
+h2 {
+    color: grey;
+}
+
+a:hover {
+    color: greenyellow;
+}
+
+ul {
+    background-color: #eeeeee;
+    border: 5px solid rgb(51, 3, 139);
+    padding: 10px;
+}
